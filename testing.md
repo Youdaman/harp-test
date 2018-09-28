@@ -4,5 +4,5 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 [Google](https://google.com)
 
-![e3f.png]({{site.baseurl}}/e3f.png)
+![e3f.png](/e3f.png)
 
