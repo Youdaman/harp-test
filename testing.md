@@ -1,6 +1,6 @@
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar _above_, or **click** the **?** button for [Google Australia](http://google.com.au) help.
 
 [Google](https://google.com)
 
