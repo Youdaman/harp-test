@@ -9,6 +9,3 @@ This is a trip
 Here is some more text...
  And more
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTc0MzkxMF19
--->
