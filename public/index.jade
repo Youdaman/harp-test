@@ -1,10 +1,27 @@
 h1 Welcome to Harp.
 h3 This is yours to own. Enjoy.
-.testing this is a test
-.testing this is another test
-.testing and another one 
+
+.testing bacon pancakes 
+.testing makin bacon pancakes 
 
 ul
 each p in partners
   li !{p.name}
     | is #{p.age}
+
+:markdown
+  # now I can write Markdown here
+
+  This is my Markdown post.
+  1. Chocolate
+  2. Strawberry
+  3. Vanilla
+
+img(src='e3f.png')
+
+pre #{ JSON.stringify(public, null, '\t') }
+
+script(src='./test.js')
+
+script.
+  console.log(!{JSON.stringify(public)})

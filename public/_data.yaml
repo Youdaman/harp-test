@@ -1,8 +1,8 @@
 index:
   partners:
     - first:
-      name: '<b>bill</b>'
-      age: 42
+      name: 'Nicola'
+      age: 37
     - second:
-      name: 'ted'
-      age: 40
+      name: 'Stew'
+      age: 39
