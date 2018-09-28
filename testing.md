@@ -6,3 +6,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ![e3f.png](/e3f.png)
 
+### this is a heading
+
+this is a **paragraph** 
